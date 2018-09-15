@@ -6,7 +6,7 @@
     display: inline-block;
     width: 16px;
     height: 11px;
-    background: url(../img/flags.3c4ef45.png) no-repeat;
+    background: url(/static/img/flags.3c4ef45.png) no-repeat;
 }
 
 
@@ -1402,7 +1402,7 @@ iPad 3
 }
 
 #particles-header {
-  background-image: url(../img/star-in-space.71a3a81.png);
+  background-image: url(/static/img/star-in-space.71a3a81.png);
   background-position: 50% 0px;
   padding-bottom: 70px;
   padding-top: 150px;
@@ -1581,31 +1581,6 @@ iPad 3
         bottom: 260px;
         left: -5%;
 }
-}
-
-.education-logo {
-  margin-left: 90px;
-  margin-top: 15px;
-}
-
-.progress-bars .progress {
-  float: left;
-  width: 70%;
-  height: 3px;
-  margin-top: 10px;
-}
-.progress-bars .progress .progress-bar {
-    background-color: #2e353e;
-    overflow: visible !important;
-    background-image: none !important;
-}
-.progress-bars .progress-label {
-  float: left;
-  width: 30%;
-}
-
-#portfolio li div {
-  cursor: pointer;
 }
 
 @keyframes animateSuccessTip {
@@ -2232,6 +2207,31 @@ iPad 3
 }
 }
 
+.education-logo {
+  margin-left: 90px;
+  margin-top: 15px;
+}
+
+.progress-bars .progress {
+  float: left;
+  width: 70%;
+  height: 3px;
+  margin-top: 10px;
+}
+.progress-bars .progress .progress-bar {
+    background-color: #2e353e;
+    overflow: visible !important;
+    background-image: none !important;
+}
+.progress-bars .progress-label {
+  float: left;
+  width: 30%;
+}
+
+#portfolio li div {
+  cursor: pointer;
+}
+
 @charset "UTF-8";
 .testimonial blockquote {
   border-radius: 10px;
@@ -2439,4 +2439,4 @@ iPad 3
   margin-right: 30px;
 }
 
-/*# sourceMappingURL=main.42a9c1f7daac1251c12ec439bb7886b9.css.map*/
+/*# sourceMappingURL=main.3f6ffb257d83dd9b70d48c0e73eb4135.css.map*/
